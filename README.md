@@ -1,4 +1,4 @@
-# Flask-Todo-App
+# Flask Todo App
 
 
 It is a todo app project using Python Flask.
